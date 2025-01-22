@@ -20,7 +20,11 @@ Provides a C# API client for the latest API of the TVDB website
 Provides an extension to use HttpClient with [Scrutor](https://github.com/khellang/Scrutor)
 
 ### [Homelab](https://github.com/ChrisonSimtian/homelab)
-I am a hobbyist homelabber :-)
+I am a hobbyist homelabber :-) I love tinkering with hardware and at the moment I operate a mini data centre at home running on Proxmox with several virtualized and containerized applications.
+Most of this stuff is smart home or media related, but occasionally I also develop and deploy actual applications
+
+### [DevOps](https://github.com/ChrisonSimtian/DevOps)
+I love playing around with everything DevOps related
 
 ## Open Source projects I support through contributions
 ### [Scrutor](https://github.com/khellang/Scrutor)
