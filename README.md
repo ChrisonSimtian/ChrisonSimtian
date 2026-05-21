@@ -71,5 +71,5 @@ I run a small data centre at home on Proxmox — Synology storage, smart-home ge
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrisonsimtian&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_rank=true" alt="Chris's GitHub stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisonsimtian&theme=github-compact&hide_border=true&area=true" alt="Chris's contribution activity"/>
 </p>
