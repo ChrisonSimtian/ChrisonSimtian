@@ -22,9 +22,10 @@ Senior .NET engineer focused on Azure, DevOps and microservices. **Open to contr
   <img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Bicep"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Octopus_Deploy-2F93E0?style=for-the-badge&logo=octopusdeploy&logoColor=white" alt="Octopus Deploy"/>
 </p>
 
-### Production-grade libraries I maintain
+### 📦 Production-grade libraries I maintain
 
 | Repo | What it does |
 | --- | --- |
@@ -49,6 +50,15 @@ Outside work I build things I actually want to use — factory-game planners, ho
 
 ---
 
+## 🤝 Open source I contribute to
+
+| Repo | My contribution |
+| --- | --- |
+| [**MediathekArr**](https://github.com/PCJones/MediathekArr) | Co-developer of an \*Arr app that pulls TV shows and films from German public broadcasters (ARD, ZDF, …) legally |
+| [**Scrutor**](https://github.com/khellang/Scrutor) | Contributed the typed-`HttpClient` extension |
+
+---
+
 ## 🏠 Homelab
 
 I run a small data centre at home on Proxmox — Synology storage, smart-home gear, media servers, and the occasional self-hosted app.
@@ -58,13 +68,6 @@ I run a small data centre at home on Proxmox — Synology storage, smart-home ge
 | [**Homelab.Prometheus.Synology**](https://github.com/ChrisonSimtian/Homelab.Prometheus.Synology) | Monitoring my Synology NAS via snmp-exporter + Prometheus |
 | [**proxmox.obsidian-livesync-lxc**](https://github.com/ChrisonSimtian/proxmox.obsidian-livesync-lxc) | One-command LXC for self-hosted Obsidian sync with CouchDB |
 | [**PSProxmox**](https://github.com/ChrisonSimtian/PSProxmox) | PowerShell module for managing Proxmox VE clusters |
-
----
-
-## 🤝 Open source I contribute to
-
-- [**MediathekArr**](https://github.com/PCJones/MediathekArr) — co-developer. An \*Arr app that pulls TV shows and films from German public broadcasters (ARD, ZDF, …) legally
-- [**Scrutor**](https://github.com/khellang/Scrutor) — contributed the typed-`HttpClient` extension
 
 ---
 
